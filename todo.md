@@ -1,3 +1,4 @@
+# creation d'une branche développement à partir de la master
 # Ajout de test unitaires et test d'integration 
 # Ajouter une couche d'authentification
 # Implementer un logger afin de pouvoir logger les erreurs.
