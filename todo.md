@@ -1,4 +1,4 @@
-
+# Ajout de test unitaires et test d'integration 
 # Ajouter une couche d'authentification
 # Implementer un logger afin de pouvoir logger les erreurs.
 # Gérer la configuration selon l'environnement
