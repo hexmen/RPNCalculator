@@ -1,1 +1,5 @@
-
+-ajouter une couche d'authentification
+-implementer un logger afin de pouvoir logger les erreurs.
+-gerer la configuration selon l'environnement
+-rendre la calcularice threadsafe
+-passer en .net 8 (n'est pas installé sur ma machine)
