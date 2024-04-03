@@ -46,7 +46,7 @@ namespace RPNCalculator.Controllers
         /// clear stack
         /// </summary>
         /// <returns></returns>
-        [HttpDelete("{stackId}")]
+        [HttpDelete("/clear/{stackId}")]
         public IActionResult ClearStack(Guid stackId)
         {
             try
